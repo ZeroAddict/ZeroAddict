@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **ZeroAddict/ZeroAddict**
 
 - 🔭 I’m currently working on Researchetal, Interesting Products, Molecular Dynamics, Bioinformatics
