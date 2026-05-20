@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <!--
-**ZeroAddict/ZeroAddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**ZeroAddict/ZeroAddict**
 
 - 🔭 I’m currently working on Researchetal, Interesting Products, Molecular Dynamics, Bioinformatics
 - 🌱 I’m currently learning Python and Product Management
@@ -13,7 +11,6 @@ Here are some ideas to get you started:
 # Olayemi Adekogbe – Product Portfolio
 
 *Entry-level PM with full-stack development background. I ship things, document decisions, and learn from failure.*
-
 ---
 
 
@@ -39,8 +36,8 @@ Academic researchers need credible, stable platforms. Young learners need clean,
 | Flying book animation | Add personality without hurting UX | Positive feedback from young learners |
 
 ### Evidence
-- 📸 [Screenshots (PDF)](link)
-- 💻 [GitHub Repo](https://ZeroAddict/Researchetal-landing)
+- 📸 [Screenshots (PDF)](https://docs.google.com/document/d/19F5jyTREmsXdj24GlTq0-9iJ9xnJ_5d9P73eLcNbaxw/edit?tab=t.0)
+- 💻 [GitHub Repo](https://linkedin.com/ZeroAddict/Researchetal-landing)
 - 🔗 Live link: researchetal.com (was live April–May 2026, hosting lapsed)
 - 🎨 [Logo assets (light/dark)]()
 
