@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ---
 
+
 ## Primary Case Study: Researchetal (Ed-Tech Platform)
 
 **Timeline:** 2024–2026 | **Role:** Sole PM, designer, developer | **Status:** Shipped (live April–May 2026)
